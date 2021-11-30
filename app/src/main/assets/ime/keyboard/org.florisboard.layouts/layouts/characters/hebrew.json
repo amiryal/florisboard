@@ -2,7 +2,7 @@
   [
     { "code":   39, "label": "'", "popup": {
       "relevant": [
-        { "code": 1474, "label": "ס\u05c2" },
+        { "code": 1474, "label": "ש\u05c2" },
         { "code": 1467, "label": "ס\u05bb" },
         { "code": 1523, "label": "׳" },
         { "code": 1524, "label": "״" },
@@ -13,7 +13,7 @@
     { "code":   45, "label": "-", "popup": {
       "relevant": [
         { "code": 1470, "label": "־" },
-        { "code": 1473, "label": "ס\u05c1" },
+        { "code": 1473, "label": "ש\u05c1" },
         { "code":   95, "label": "_" }
       ]
     } },
